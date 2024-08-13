@@ -1,7 +1,13 @@
 # Posters
 Posters presented in conferences (reverse chronological order)
 
-- [Quantum catalysis in cavity QED](https://github.com/AdeOliveiraJunior/Posters/blob/06304a70f2411f3595006df2a46543f598a17971/Quantum%20catalysis%20in%20Cavity%20QED%20(Poster%20-%20Morroco).pdf). Poster that will be presented at Quantum Morocco (Rabat, 2023)
+- [Heat as a witness of quantum properties](https://github.com/AdeOliveiraJunior/Posters/blob/main/%20Certifying%20properties%20of%20quantum%20states%20via%20heat%20transfe.pdf). Poster presented at Quantum Thermodynamics 2024 (Maryland, 2024)
+
+- [Entanglement from athermality](https://github.com/AdeOliveiraJunior/Posters/blob/main/Entanglement%20from%20athermality%20(poster).pdf). Poster presented at Quantum Thermodynamics 2024 (Maryland, 2024)
+
+- [Quantum catalysis in cavity QED](https://github.com/AdeOliveiraJunior/Posters/blob/06304a70f2411f3595006df2a46543f598a17971/Quantum%20catalysis%20in%20Cavity%20QED%20(Poster%20-%20Morroco).pdf). Poster presented at Quantum Morocco (Rabat, 2023) and Workshop on Gaussian and non-Gaussian Quantum Correlations (GnGQC) (Copenhagen, 2023)
+
+- [Quantum catalysis in cavity QED](https://github.com/AdeOliveiraJunior/Posters/blob/06304a70f2411f3595006df2a46543f598a17971/Quantum%20catalysis%20in%20Cavity%20QED%20(Poster%20-%20Morroco).pdf). Poster presented at Quantum Morocco (Rabat, 2023) and Workshop on Gaussian and non-Gaussian Quantum Correlations (GnGQC) (Copenhagen, 2023)
   
 - [Thermal recall: Memory-assisted Markovian thermal processes](https://github.com/AdeOliveiraJunior/Posters/blob/1899d4157e480f2e26ce1be19214d77520bb2c0b/Thermal%20recall%20(poster%20QTD%20-%20Alex).pdf). Poster presented at Quantum Thermodynamics 2023 (Vienna, 2023) and Near-term Quantum Computing 2020(+3) (Warsaw, 2023)
 
